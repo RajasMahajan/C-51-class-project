@@ -18,9 +18,14 @@
      border-radius: 50px;
 }
 .all{
-    background-color: whitesmoke;
+    background-image:url("backgroundone.jpg");
 }
 .introne{
     background-color: black;
     color:white;
 } 
+.imageone{
+    border-style: solid;
+    border-radius: 40px;
+    border-color: black;
+}
